@@ -36,7 +36,7 @@ six==1.15.0
 smdebug-rulesconfig==1.0.1
 soupsieve==2.2
 threadpoolctl==2.1.0
-urllib3==1.26.3
+urllib3==1.26.5
 websocket-client==0.57.0
 websockets==8.1
 zipp==3.4.0
